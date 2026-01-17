@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.2">
+  <diagram name="Página-1" id="aCpx4dKTj2oFY2P0t2Yw">
+    <mxGraphModel dx="622" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IWf4PBcsyHXMogAPnG54-9" edge="1" parent="1" source="IWf4PBcsyHXMogAPnG54-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.755;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IWf4PBcsyHXMogAPnG54-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWf4PBcsyHXMogAPnG54-3" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.workstation;" value="" vertex="1">
+          <mxGeometry height="62" width="83" x="110" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IWf4PBcsyHXMogAPnG54-4" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.workstation;" value="" vertex="1">
+          <mxGeometry height="62" width="83" x="590" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IWf4PBcsyHXMogAPnG54-7" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwLjMwMyAwLjMwMyA1OC42NjU5OTkzNTkxMzA4NiA0Ni44NjEwMDI4Njg2NTIzNCIgZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgd2lkdGg9IjU4LjY2NTk5OTM1OTEzMDg2IiBoZWlnaHQ9IjQ2Ljg2MTAwMjg2ODY1MjM0Ij48c3R5bGU+LkJ7c3Ryb2tlOm5vbmV9LkN7c3Ryb2tlOiNmZmZ9LkR7c3Ryb2tlLWxpbmVqb2luOm1pdGVyfS5Fe2ZpbGw6IzBlNmY5Y30uRntzdHJva2Utd2lkdGg6Ljc4N308L3N0eWxlPjx1c2UgeGxpbms6aHJlZj0iI0EiIHg9Ii41IiB5PSIuNSIvPjxzeW1ib2wgaWQ9IkEiIG92ZXJmbG93PSJ2aXNpYmxlIj48dXNlIHhsaW5rOmhyZWY9IiNDIiBjbGFzcz0iQiBFIi8+PHVzZSB4bGluazpocmVmPSIjQyIgZmlsbD0ibm9uZSIgY2xhc3M9IkMgRCBGIi8+PHVzZSB4bGluazpocmVmPSIjRCIgY2xhc3M9IkIgRSIvPjx1c2UgeGxpbms6aHJlZj0iI0QiIGZpbGw9Im5vbmUiIGNsYXNzPSJDIEQgRiIvPjx1c2UgeGxpbms6aHJlZj0iI0UiIGNsYXNzPSJCIEUiLz48dXNlIHhsaW5rOmhyZWY9IiNFIiBmaWxsPSJub25lIiBjbGFzcz0iQyBEIEYiLz48dXNlIHhsaW5rOmhyZWY9IiNGIiBjbGFzcz0iQiBFIi8+PHVzZSB4bGluazpocmVmPSIjRiIgZmlsbD0ibm9uZSIgY2xhc3M9IkMgRCBGIi8+PHBhdGggZD0iTTIyLjQ0NyA2LjNsMi4zNjIgMy41NDQtOS4wNTYgMi4zNjIgMS45NjktMS45NjlMMy45NDIgNy44NzVsMy41NDQtMi4zNjIgMTMuMzg3IDEuOTY5TDIyLjQ0NyA2LjN6bTEyLjk5MyA4LjY2MmwtMS45NjktMy41NDQgOC4yNjgtMS41NzUtMS4xODEgMS4xODEgMTMuMzg3IDIuMzYyLTMuMTUgMi43NTYtMTMuNzgtMi43NTYtMS41NzUgMS41NzV6TTMwLjcxNiA0LjMzMWw5LjA1Ni0yLjM2Mi4zOTQgMy45MzctMi4zNjItLjM5NC00LjMzMSAzLjU0NC00LjMzMS0uMzk0IDQuMzMxLTMuOTM3LTIuNzU2LS4zOTR6bS0zLjkzNyAxNC4xNzRsLTguNjYyIDEuNTc1LS4zOTQtMy45MzcgMi43NTYuMzk0IDQuNzI1LTMuOTM3IDQuMzMxLjc4OC01LjExOSA0LjMzMSAyLjM2Mi43ODd6IiBjbGFzcz0iQiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiIHN0cm9rZS13aWR0aD0iLjM5NCIgY2xhc3M9IkMgRCI+PHBhdGggZD0iTTIyLjQ0NyAxMS44MTJsNy44NzUuMzk0TTYuMzA0IDEwLjYzMWw3Ljg3NS43ODdNMi43NjEgNy4wODdsNi4zLjc4N20uNzg3LS4zOTRsLTcuODc1IDYuNjkzIi8+PHBhdGggZD0iTTE3LjcyMiA4LjI2OGwtMTEuMDI0IDkuNDVtMTkuNjg2LTkuMDU2TDEyLjk5OCAyMC4wOCIvPjxwYXRoIGQ9Ik05Ljg0OCAxNC45NjJsOC4yNjguMzk0bTI2Ljc3NC4zOTRsNy44NzUuMzk0bS0yNC4wMTctMS4xODFsNy44NzUuMzk0bS00LjMzMS0zLjkzN0wyMC4wODUgMjEuNjU1Ii8+PHBhdGggZD0iTTQwLjk1MiAxMS44MTJMMjguNzQ3IDIyLjA0OW0yMC4wOC05LjQ0OWwtMTEuMDI0IDkuNDQ5bTIwLjA4LTEwLjYzMWwtNy40ODEgNy40ODFtLTM0LjI1NC0xLjE4MWw3Ljg3NS43ODdtOC42NjIuMzk0bDcuODc1LjM5NE0xNi45MzUgMS4xODFMOS40NTQgNy44NzVNMjcuNTY2IDBsLTkuODQzIDguNjYybTMwLjcxMS0zLjU0NGw1LjUxMi43ODciLz48cGF0aCBkPSJNMzYuNjIyLjM5NEwyMy4yMzUgMTEuODEyTTQ0LjEwMyAxLjU3NUwzMS4xMSAxMi4yMDZtMTguODk5LTguMjY4TDM5Ljc3MiAxMi42bTE1Ljc0OS01LjUxMmwtNy4wODcgNi4zIi8+PHBhdGggZD0iTTE5LjY5MSA3LjQ4MWw4LjI2OC4zOTRtOC4yNjguMzk0bDcuODc1Ljc4N204LjI2OC4zOTRsNC43MjUuMzk0Ii8+PC9nPjwvc3ltYm9sPjxkZWZzPjxwYXRoIGlkPSJDIiBkPSJNNTguMjcxIDE4LjUxMmMwIDYuMy0xMi45OTMgMTEuNDE4LTI5LjEzNiAxMS40MThTMCAyNC44MTIgMCAxOC41MTJ2MTYuNTM3YzAgNi4zIDEyLjk5MyAxMS40MTggMjkuMTM2IDExLjQxOHMyOS4xMzYtNS4xMTggMjkuMTM2LTExLjQxOHoiLz48cGF0aCBpZD0iRCIgZD0iTTI5LjEzNiAyOS45M2MxNi4xNDMgMCAyOS4xMzYtNS4xMTggMjkuMTM2LTExLjQxOCAwLTUuOTA2LTEyLjk5My0xMS4wMjQtMjkuMTM2LTExLjAyNFMwIDEyLjYwNiAwIDE4LjUxMmMwIDYuMyAxMi45OTMgMTEuNDE4IDI5LjEzNiAxMS40MTh6Ii8+PHBhdGggaWQ9IkUiIGQ9Ik0yOS4xMzYgMjIuNDQ5YzE1Ljc0OSAwIDI4Ljc0Mi01LjExOCAyOC43NDItMTEuMDI0IDAtNi4zLTEyLjk5My0xMS40MTgtMjguNzQyLTExLjQxOFMuMzk0IDUuMTI1LjM5NCAxMS40MjVjMCA1LjkwNiAxMi45OTMgMTEuMDI0IDI4Ljc0MiAxMS4wMjR6Ii8+PHBhdGggaWQ9IkYiIGQ9Ik01Ny44NzggMTEuNDI1YzAgNS45MDYtMTIuOTkzIDExLjAyNC0yOC43NDIgMTEuMDI0Uy4zOTQgMTcuMzMxLjM5NCAxMS40MjVWMTkuM2MwIDYuMyAxMi45OTMgMTEuMDI0IDI4Ljc0MiAxMS4wMjRTNTcuODc4IDI1LjU5OSA1Ny44NzggMTkuM3oiLz48L2RlZnM+PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="47" width="59" x="360" y="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IWf4PBcsyHXMogAPnG54-11" edge="1" parent="1" source="IWf4PBcsyHXMogAPnG54-7" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.11;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="IWf4PBcsyHXMogAPnG54-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="217.5" as="sourcePoint" />
+            <mxPoint x="520" y="167.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWf4PBcsyHXMogAPnG54-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Windows 11&lt;div&gt;10.0.60.20&lt;/div&gt;&lt;div&gt;SSH/RDP&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="90" x="100" y="222" as="geometry" />
+        </mxCell>
+        <mxCell id="IWf4PBcsyHXMogAPnG54-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="pfSense Firewall/Router&lt;div&gt;&lt;div&gt;LAN: 10.0.60.1&lt;/div&gt;&lt;div&gt;OPT1: 10.0.70.1&lt;/div&gt;&lt;div&gt;NetFlow V9&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="314.5" y="217" as="geometry" />
+        </mxCell>
+        <mxCell id="IWf4PBcsyHXMogAPnG54-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;div&gt;Kali&lt;br&gt;10.0.70.10&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="585" y="232" as="geometry" />
+        </mxCell>
+        <mxCell id="IWf4PBcsyHXMogAPnG54-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="NetFlow UDP 2055&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="444.5" y="167.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

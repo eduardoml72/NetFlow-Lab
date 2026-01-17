@@ -1,0 +1,12 @@
+# Ignore all virtual machine files
+_virtual-machines/
+
+# VMware specific files (extra safety)
+*.vmx
+*.vmdk
+*.nvram
+*.vmem
+*.vmsd
+*.vmsn
+*.vmxf
+*.log
